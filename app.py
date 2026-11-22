@@ -23,7 +23,7 @@ load_dotenv()
 # CONFIGURATION CONSTANTS
 # ==============================================================================
 # The Gemini model to use. You can easily switch this to any supported model.
-DEFAULT_MODEL: str = "gemini-3.8-flash"
+DEFAULT_MODEL: str = "gemini-3.5-flash-lite"
 
 # Target role options for the dropdown
 ROLE_OPTIONS = [
